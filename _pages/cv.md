@@ -21,7 +21,7 @@ Work experience
 * **2021 - Present: University Tutor and Demonstrator**  
   * Maynooth University  
   * Modules: Java, Compiler Design, Theory of Computation, Operating Systems, Music Programming, Software Testing, Software Verification, Computer Graphics  
-  * Supervisor: Dr. Hao Wu
+  * Supervisor: Dr. Hao Wu and Prof. Rosemary Monahan 
 
 * **Feb 2022 - July 2022: Research Intern**  
   * National Centre for Geocomputation (NCG), Maynooth University  
