@@ -88,7 +88,7 @@ Developed a secure online voting platform using face recognition for user authen
 =====
 - **Erasmus Mundus Scholarship Awardee (2020–2022)** – Selected for the prestigious joint MSc in Advanced Systems Dependability, hosted by Maynooth University and the University of St Andrews.
 
-- Best MSc Presentation, **DEPEND Summer School 2021** – Recognized for delivering the top research presentation among international scholars.
+- Best MSc Presentation, **DEPEND Summer School 2022** – Recognized for delivering the top research presentation among international scholars.
 
 - **Departmental Doctoral Scholarship**, Maynooth University (2022–Present) – Awarded for outstanding academic performance and research potential.
 
