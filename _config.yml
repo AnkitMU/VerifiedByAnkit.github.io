@@ -25,7 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Ankit Jha"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD researcher at Maynooth University, passionate about software engineering, model-driven development and intelligent automation."
+
   location         : "Ireland"
   employer         : "Maynooth University"
   uri              : # URL
