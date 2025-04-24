@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m **Ankit Jha**, a **PhD Scholar in Computer Science** at **Maynooth University**, Ireland. I’m passionate about solving real-world problems using formal methods, machine learning, and intelligent software systems. My research focuses on **Automatic Benchmark Generation for Object Constraint Language (OCL)**, aimed at improving the evaluation and reliability of constraint-checking tools in model-driven engineering.
+Welcome! I’m **Ankit Jha**, a **PhD Scholar in Computer Science** at **Maynooth University**, Ireland. I’m passionate about solving real-world problems using formal methods, machine learning, and intelligent software systems. My research focuses on **Automatic Benchmark Generation for Object Constraint Language (OCL)**, aimed at improving the evaluation and reliability of constraint-checking tools in model-driven engineering.  I am fortunate to be supervised by [Dr. Hao Wu](https://classicwuhao.github.io/) and [Prof. Rosemary Monahan](http://rosemarymonahan.com/), leading experts in the fields of software verification and formal methods.
 
 My journey as a researcher — from cutting-edge **research** and hands-on **projects**, to impactful **teaching experience** and **academic contributions**. Explore my work, connect with my interests, and feel free to reach out for collaboration or conversation.
 
