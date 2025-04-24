@@ -10,5 +10,4 @@ paperurl: ''
 citation: 'A. Jha (2023). "Automatic Benchmark Generation for Object Constraint Language." <i>IEEE ICST 2023</i>.'
 
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The Object Constraints Language (OCL), a specification language allows users to specify text-based formal rules over UML graphical models. However, the lack of OCL bench-marks makes difficult to evaluate existing and newly created OCL tools. In this short paper, we propose an approach to automatic OCL benchmark generation. We discuss its feasibility by illustrating different phases and outlining our current progress in this research.
