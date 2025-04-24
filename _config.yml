@@ -13,7 +13,7 @@ title                    : "Ankit Jha"
 title_separator          : "-"
 name                     : &name "Ankit Jha"
 description              : &description "personal description"
-url                      : https://ankit.jha.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ankitmu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
